@@ -1,5 +1,2 @@
-numpy
-math
-pytest
+numpy=1.23
 matplotlib
-time
